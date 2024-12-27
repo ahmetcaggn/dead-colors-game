@@ -25,5 +25,6 @@
 [<img src="https://github.com/alminadadak.png" width="60px;"/>](https://github.com/alminadadak)
 
 ## Screenshots
+![Screenshot from 2024-12-27 18-03-08](https://github.com/user-attachments/assets/684c5f85-b756-4510-8ac9-00bb46498191)
 ![1709455396186](https://github.com/user-attachments/assets/30be0ea1-bcc7-46dc-9829-f0df7226dd2f)
 ![1709455396606](https://github.com/user-attachments/assets/92535a2a-ebb9-44ea-b251-ff456fea9283)
